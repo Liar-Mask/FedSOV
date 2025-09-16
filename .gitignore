@@ -1,0 +1,11 @@
+LOG_*
+Log*
+logs
+*.log
+baselines/
+imgs/
+*cache*
+fig*.py
+*ori.py
+test.py
+over*.py
